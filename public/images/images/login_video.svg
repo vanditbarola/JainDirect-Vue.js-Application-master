@@ -1,0 +1,11 @@
+<svg id="youtube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.666" height="14.914" viewBox="0 0 17.666 14.914">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.121" y1="0.082" x2="1" y2="1.066" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#66cea5"/>
+      <stop offset="0.424" stop-color="#80d7b5"/>
+      <stop offset="1" stop-color="#a3e4cb"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_13" data-name="Path 13" d="M226,208.07v3.666l2.933-1.833Z" transform="translate(-218.596 -202.446)" fill="#419976"/>
+  <path id="Path_14" data-name="Path 14" d="M4.75,75.914H16.68a2.871,2.871,0,0,0,2.868-2.868V63.868A2.871,2.871,0,0,0,16.68,61H4.75a2.871,2.871,0,0,0-2.868,2.868v9.178A2.871,2.871,0,0,0,4.75,75.914ZM8.139,65.589a.573.573,0,0,1,.878-.486l4.589,2.868a.573.573,0,0,1,0,.972L9.016,71.811a.573.573,0,0,1-.878-.486Z" transform="translate(-1.882 -61)" fill="url(#linear-gradient)"/>
+</svg>

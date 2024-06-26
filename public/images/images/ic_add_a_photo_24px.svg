@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="48.13" viewBox="0 0 51 48.13">
+  <defs>
+    <filter id="ic_add_a_photo_24px" x="0" y="0" width="51" height="48.13" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#ic_add_a_photo_24px)">
+    <path id="ic_add_a_photo_24px-2" data-name="ic_add_a_photo_24px" d="M4.3,5.3V1h2.87V5.3h4.3v2.87h-4.3v4.3H4.3v-4.3H0V5.3Zm4.3,8.609v-4.3h4.3V5.3H22.957l2.626,2.87H30.13A2.878,2.878,0,0,1,33,11.043V28.261a2.878,2.878,0,0,1-2.87,2.87H7.174a2.878,2.878,0,0,1-2.87-2.87V13.913ZM18.652,26.826a7.174,7.174,0,1,0-7.174-7.174A7.177,7.177,0,0,0,18.652,26.826Zm-4.591-7.174a4.591,4.591,0,1,0,4.591-4.591,4.586,4.586,0,0,0-4.591,4.591Z" transform="translate(9 8)" fill="#fff" opacity="0.81"/>
+  </g>
+</svg>

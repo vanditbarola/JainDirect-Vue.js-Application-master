@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.211" height="43.211" viewBox="0 0 43.211 43.211">
+  <defs>
+    <filter id="ic_play_circle_outline_24px" x="0" y="0" width="43.211" height="43.211" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.204"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#ic_play_circle_outline_24px)">
+    <path id="ic_play_circle_outline_24px-2" data-name="ic_play_circle_outline_24px" d="M12.084,20.278l7.563-5.672L12.084,8.933ZM14.605,2A12.605,12.605,0,1,0,27.211,14.605,12.61,12.61,0,0,0,14.605,2Zm0,22.69A10.084,10.084,0,1,1,24.69,14.605,10.1,10.1,0,0,1,14.605,24.69Z" transform="translate(7 4)" fill="#fff"/>
+  </g>
+</svg>
